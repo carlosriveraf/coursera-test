@@ -1,0 +1,32 @@
+#navigation {
+    background-color: #6E8AF1;
+    padding: 0;
+}
+#header-navigation {
+    padding: 8px 16px 8px 16px;
+    
+}
+#list-navigation {
+    background-color: #F1A86E;
+    padding: 0 16px 8px 16px;
+}
+.title {
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 5px;
+}
+.row {
+    margin: 0 auto;
+}
+.col-12 {
+    background-color: rgb(190, 188, 188);
+    padding: 0 15px 5px 15px;
+    margin-bottom: 15px;
+}
+div > h1 {
+    margin: 0;
+    padding: 5px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
